@@ -1,4 +1,4 @@
-![My Image]([https://github.com/your-username/your-repo-name/blob/main/images/logo.png](https://github.com/RifatHasan-g/A_O_C10/blob/main/app_screenshot/Screenshot%20from%202024-09-08%2021-51-43.png))
+![My Image](https://github.com/RifatHasan-g/A_O_C10/blob/main/app_screenshot/Screenshot%20from%202024-09-08%2021-51-43.png)
 
 
 
