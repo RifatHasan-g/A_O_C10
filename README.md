@@ -1,14 +1,10 @@
 ![My Image](https://github.com/RifatHasan-g/A_O_C10/blob/main/app_screenshot/Screenshot%20from%202024-09-08%2021-51-43.png)
-
-
-
-
-
-
-
-
-
-
+![My Image](https://github.com/RifatHasan-g/A_O_C10/blob/main/app_screenshot/Screenshot%20from%202024-09-08%2021-52-21.png)
+![My Image](https://github.com/RifatHasan-g/A_O_C10/blob/main/app_screenshot/Screenshot%20from%202024-09-08%2021-52-33.png)
+![My Image](https://github.com/RifatHasan-g/A_O_C10/blob/main/app_screenshot/Screenshot%20from%202024-09-08%2021-52-59.png)
+![My Image](https://github.com/RifatHasan-g/A_O_C10/blob/main/app_screenshot/Screenshot%20from%202024-09-08%2021-53-15.png)
+![My Image](https://github.com/RifatHasan-g/A_O_C10/blob/main/app_screenshot/Screenshot%20from%202024-09-08%2021-53-32.png)
+![My Image](https://github.com/RifatHasan-g/A_O_C10/blob/main/app_screenshot/Screenshot%20from%202024-09-08%2021-53-48.png)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
